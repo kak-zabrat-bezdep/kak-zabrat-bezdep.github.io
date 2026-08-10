@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kak-zabrat-bezdep.github.io
+Sitemap: https://kak-zabrat-bezdep.github.io/sitemap.xml
